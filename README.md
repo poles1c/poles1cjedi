@@ -1,2 +1,2 @@
 # poles1cjedi
-For GA Homework
+Training repo
