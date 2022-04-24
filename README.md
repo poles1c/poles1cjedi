@@ -1,2 +1,2 @@
 # poles1cjedi
-Training repo
+Training Repo
